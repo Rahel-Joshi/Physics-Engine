@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "asset_cache.h": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "stdlib.h": "c",
+        "sdl_wrapper.h": "c",
+        "course_components.h": "c",
+        "stdbool.h": "c",
+        "forces.h": "c"
+    }
+}
